@@ -41,12 +41,12 @@ import time
 from multiprocessing import Process
 import ast
 
-vitalaChat = 345373872
-nasyaChat = '377477531'
+vitalaChat = 3
+nasyaChat = '3'
 # url_link = 'http://mspvolga.ru/zakupki/'
 
 #для тестов
-#nasyaChat = 345373872
+#nasyaChat = 78654
 #url_link = "HTML_страница.html"
 
 
